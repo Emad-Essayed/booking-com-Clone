@@ -1,0 +1,52 @@
+[
+  {
+    "title1": "Cairo",
+    "subtitle1": "860,662 properties",
+    "imageSrc": "./images/explore/Cairo.webp"
+  },
+  {
+    "title1": "Dahab",
+    "subtitle1": "821,010 properties",
+    "imageSrc": "./images/explore/Dahab.webp"
+  },
+  {
+    "title1": "North Coast",
+    "subtitle1": "17,900 properties",
+    "imageSrc": "./images/explore/North Coast.webp"
+  },
+  {
+    "title1": "Marsa Alam",
+    "subtitle1": "429,819 properties",
+    "imageSrc": "./images/explore/Marsa Alam.webp"
+  },
+  {
+    "title1": "Marsa Matrouh",
+    "subtitle1": "33,674 properties",
+    "imageSrc": "./images/explore/Marsa Matrouh.webp"
+  },
+  {
+    "title1": "Ras Sedr",
+    "subtitle1": "144,104 properties",
+    "imageSrc": "./images/explore/Ras Sedr.webp"
+  },
+  {
+    "title1": "Hurghada",
+    "subtitle1": "860,662 properties",
+    "imageSrc": "./images/explore/Hurghada.webp"
+  },
+  {
+    "title1": "Sharm El Sheikh",
+    "subtitle1": "860,662 properties",
+    "imageSrc": "./images/explore/Sharm El Sheikh.webp"
+  },
+  {
+    "title1": "Alexandria",
+    "subtitle1": "860,662 properties",
+    "imageSrc": "./images/explore/Alexandria.webp"
+  },
+  {
+    "title1": "Ain Sokhna",
+    "subtitle1": "860,662 properties",
+    "imageSrc": "./images/explore/Ain Sokhna.webp"
+  }
+]

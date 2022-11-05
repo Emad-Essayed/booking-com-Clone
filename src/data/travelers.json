@@ -1,0 +1,20 @@
+[
+  {
+    "title1": "Egypt",
+    "subtitle1": "Travel community",
+    "imageSrc": "./images/travelers/1.jpg",
+    "subtitle2": "79,016 travelers"
+  },
+  {
+    "title1": "Travel Talk",
+    "subtitle1": "General discusion",
+    "imageSrc": "./images/travelers/2.jpg",
+    "subtitle2": "559,463 travelers"
+  },
+  {
+    "title1": "More communities",
+    "subtitle1": "View all",
+    "imageSrc": "./images/travelers/3.png",
+    "subtitle2": "9,894,940 travelers"
+  }
+]

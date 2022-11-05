@@ -1,0 +1,272 @@
+[
+  {
+    "Popular filters": [
+      {
+        "title": "Beachfront",
+        "number": 34
+      },
+      {
+        "title": "Hotels",
+        "number": 16
+      },
+      {
+        "title": "Beach",
+        "number": 52
+      },
+      {
+        "title": "Resorts",
+        "number": 9
+      },
+      {
+        "title": "Vacation Homes",
+        "number": 6
+      },
+      {
+        "title": "Private beach area",
+        "number": 37
+      },
+      {
+        "title": "Chalets",
+        "number": 16
+      },
+      {
+        "title": "5 stars",
+        "number": 7
+      }
+    ]
+  },
+  {
+    "Healthy & safety": [
+      {
+        "title": "Properties that take health & safety measures",
+        "number": 62
+      }
+    ]
+  },
+  {
+    "Sustainability": [
+      {
+        "title": "Travel sustainable properties",
+        "number": 13
+      }
+    ]
+  },
+  {
+    "Distance from centre of ": [
+      {
+        "title": "Less than 1 km",
+        "number": 18
+      },
+      {
+        "title": "Less than 3 km",
+        "number": 44
+      },
+      {
+        "title": "Less than 5 km",
+        "number": 52
+      }
+    ]
+  },
+  {
+    "Fun Things To Do": [
+      {
+        "title": "Beach",
+        "number": 52
+      },
+      {
+        "title": "Ptivate beach area",
+        "number": 30
+      },
+      {
+        "title": "Playground",
+        "number": 32
+      },
+      {
+        "title": "Hiking",
+        "number": 29
+      },
+      {
+        "title": "Fishing",
+        "number": 37
+      },
+      {
+        "title": "Hot tube/Jacuzzi",
+        "number": 26
+      },
+      {
+        "title": "Cycling",
+        "number": 23
+      },
+      {
+        "title": "Indoor pool",
+        "number": 18
+      },
+      {
+        "title": "Spa",
+        "number": 18
+      },
+      {
+        "title": "Turkish/Steam Bath",
+        "number": 11
+      },
+      {
+        "title": "Spa facilities",
+        "number": 9
+      },
+      {
+        "title": "Casino",
+        "number": 7
+      },
+      {
+        "title": "Spa/Wellness package",
+        "number": 7
+      },
+      {
+        "title": "foot bath",
+        "number": 4
+      },
+      {
+        "title": "full-body massage",
+        "number": 4
+      },
+
+      {
+        "title": "Bowling",
+        "number": 2
+      },
+      {
+        "title": "hot spring nath",
+        "number": 2
+      },
+      {
+        "title": "Back massage",
+        "number": 2
+      },
+
+      {
+        "title": "Couples' massage",
+        "number": 1
+      },
+      {
+        "title": "Tour or class abput local culture",
+        "number": 1
+      }
+    ]
+  },
+  {
+    "Beach Access": [
+      {
+        "title": "Beachfront",
+        "number": 34
+      }
+    ]
+  },
+  {
+    "Review score": [
+      {
+        "title": "Wonderful: 9+",
+        "number": 12
+      },
+      {
+        "title": "Very Good: 8+",
+        "number": 28
+      },
+      {
+        "title": "Good: 7+",
+        "number": 34
+      },
+      {
+        "title": "Pleasant: 6+",
+        "number": 45
+      }
+    ]
+  },
+  {
+    "Facilities": [
+      {
+        "title": "Parking",
+        "number": 12
+      },
+      {
+        "title": "Resturant",
+        "number": 28
+      },
+      {
+        "title": "Pet friendly",
+        "number": 39
+      },
+      {
+        "title": "Eoom service",
+        "number": 22
+      },
+      {
+        "title": "24-hour front desk",
+        "number": 27
+      }
+    ]
+  },
+  {
+    "Room Facilities": [
+      {
+        "title": "Kitchen/Kitchenette",
+        "number": 12
+      },
+      {
+        "title": "Private bathroom",
+        "number": 28
+      },
+      {
+        "title": "Air conditioning",
+        "number": 34
+      },
+      {
+        "title": "Bathtub",
+        "number": 45
+      },
+      {
+        "title": "Private pool",
+        "number": 45
+      }
+    ]
+  },
+  {
+    "Property accessiblity": [
+      {
+        "title": "Wheelchair accessible",
+        "number": 12
+      },
+      {
+        "title": "Toilet with grab rails",
+        "number": 28
+      },
+      {
+        "title": "Raised Toilet",
+        "number": 34
+      },
+      {
+        "title": "Lowered sink",
+        "number": 45
+      }
+    ]
+  },
+  {
+    "Room accessiblity": [
+      {
+        "title": "Entire unit located on ground floor",
+        "number": 12
+      },
+      {
+        "title": "Toilet with grab rails",
+        "number": 28
+      },
+      {
+        "title": "Raised Toilet",
+        "number": 34
+      },
+      {
+        "title": "Lowered sink",
+        "number": 45
+      }
+    ]
+  }
+]

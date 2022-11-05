@@ -1,0 +1,62 @@
+[
+  {
+    "title1": "Hotels",
+    "subtitle1": "860,662 hotels",
+    "imageSrc": "./images/properties/hotels.webp"
+  },
+  {
+    "title1": "Apartments",
+    "subtitle1": "821,010 apartments",
+    "imageSrc": "./images/properties/apartments.jpg"
+  },
+  {
+    "title1": "Resorts",
+    "subtitle1": "17,900 Resorts",
+    "imageSrc": "./images/properties/resorts.jpg"
+  },
+  {
+    "title1": "Villas",
+    "subtitle1": "429,819 villas",
+    "imageSrc": "./images/properties/villas.jpg"
+  },
+  {
+    "title1": "Cabins",
+    "subtitle1": "33,674 cabins",
+    "imageSrc": "./images/properties/cabins.jpg"
+  },
+  {
+    "title1": "Cottages",
+    "subtitle1": "144,104 Cottages",
+    "imageSrc": "./images/properties/cottages.jpg"
+  },
+  {
+    "title1": "Glamping",
+    "subtitle1": "860,662 glamping",
+    "imageSrc": "./images/properties/glamping.jpg"
+  },
+  {
+    "title1": "Guest houses",
+    "subtitle1": "860,662 guest houses",
+    "imageSrc": "./images/properties/guest houses.jpg"
+  },
+  {
+    "title1": "Hostels",
+    "subtitle1": "860,662 hostels",
+    "imageSrc": "./images/properties/hostels.jpg"
+  },
+  {
+    "title1": "motels",
+    "subtitle1": "860,662 motels",
+    "imageSrc": "./images/properties/motels.jpg"
+  },
+  {
+    "title1": "Vacation Homes",
+    "subtitle1": "860,662 vacation Homes",
+    "imageSrc": "./images/properties/vacation Homes.jpg"
+  },
+  {
+    "title1": "Serviced Apartments",
+    "subtitle1": "860,662 serviced Apartments",
+    "imageSrc": "./images/properties/serviced Apartments.jpg"
+  }
+]

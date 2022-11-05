@@ -1,0 +1,27 @@
+[
+  {
+    "title1": "7 European landmarkes you can't miss",
+    "subtitle1": "Check these must-see spots of your list.",
+    "imageSrc": "./images/Trips/1.webp"
+  },
+  {
+    "title1": "The best of the earth's natural beauty",
+    "subtitle1": "Marvel at the spectacle of mother nature at these fascinating locations .",
+    "imageSrc": "./images/Trips/2.webp"
+  },
+  {
+    "title1": "The most beautiful destinations for spring",
+    "subtitle1": "The best places to enjoy spring around the world.",
+    "imageSrc": "./images/Trips/3.webp"
+  },
+  {
+    "title1": "New York city's 6 most fashionable hotels",
+    "subtitle1": "Celebrate Fashion Week in style at on of these trendsetting spots.",
+    "imageSrc": "./images/Trips/4.webp"
+  },
+  {
+    "title1": "The top 5 cities for vegan travelers",
+    "subtitle1": "Vegan-friendly eateries abound in these travel destinations...",
+    "imageSrc": "./images/Trips/5.webp"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "title1": "Aparthotel Star Miasto",
+    "subtitle1": "Krakow",
+    "title2": "Starting From 1,485 EGP",
+    "rate": 8.8,
+    "subtitle2": "2,691 reviews",
+    "imageSrc": "./images/Homes guests/1.jpg"
+  },
+  {
+    "title1": "Villa Domina",
+    "subtitle1": "Split",
+    "title2": "Starting From 1,237 EGP",
+    "rate": 9.5,
+    "subtitle2": "1,009 reviews",
+    "imageSrc": "./images/Homes guests/2.jpg"
+  },
+  {
+    "title1": "Sugar Loft Apartments",
+    "subtitle1": "Rio de janeiro",
+    "title2": "Starting From 876 EGP",
+    "rate": 9.1,
+    "subtitle2": "285 reviews",
+    "imageSrc": "./images/Homes guests/3.jpg"
+  },
+  {
+    "title1": "The Patio Barcelona",
+    "subtitle1": "Barcelona",
+    "title2": "Starting From 8,186 EGP",
+    "rate": 9.2,
+    "subtitle2": "56 reviews",
+    "imageSrc": "./images/Homes guests/4.jpg"
+  },
+  {
+    "title1": "Aparthotel Star Miasto",
+    "subtitle1": "Krakow",
+    "title2": "Starting From 1,485 EGP",
+    "rate": 8.8,
+    "subtitle2": "2,691 reviews",
+    "imageSrc": "./images/Homes guests/1.jpg"
+  },
+  {
+    "title1": "Villa Domina",
+    "subtitle1": "Split",
+    "title2": "Starting From 1,237 EGP",
+    "rate": 9.5,
+    "subtitle2": "1,009 reviews",
+    "imageSrc": "./images/Homes guests/2.jpg"
+  },
+  {
+    "title1": "Sugar Loft Apartments",
+    "subtitle1": "Rio de janeiro",
+    "title2": "Starting From 876 EGP",
+    "rate": 9.1,
+    "subtitle2": "285 reviews",
+    "imageSrc": "./images/Homes guests/3.jpg"
+  },
+  {
+    "title1": "The Patio Barcelona",
+    "subtitle1": "Barcelona",
+    "title2": "Starting From 8,186 EGP",
+    "rate": 9.2,
+    "subtitle2": "56 reviews",
+    "imageSrc": "./images/Homes guests/4.jpg"
+  }
+]

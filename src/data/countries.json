@@ -1,0 +1,32 @@
+[
+  {
+    "title1": "Hurghada",
+    "subtitle1": "4,222 properties",
+    "imageSrc": "./images/countries/1.webp",
+    "flagSrc": "./images/countries/egypt.png"
+  },
+  {
+    "title1": "Dubai",
+    "subtitle1": "4,299 properties",
+    "imageSrc": "./images/countries/2.webp",
+    "flagSrc": "./images/countries/dubai.png"
+  },
+  {
+    "title1": "Cairo",
+    "subtitle1": "1,432 properties",
+    "imageSrc": "./images/countries/3.webp",
+    "flagSrc": "./images/countries/egypt.png"
+  },
+  {
+    "title1": "Sharm El Sheikh",
+    "subtitle1": "161 properties",
+    "imageSrc": "./images/countries/4.webp",
+    "flagSrc": "./images/countries/egypt.png"
+  },
+  {
+    "title1": "Ain Sokhna",
+    "subtitle1": "14,517 properties",
+    "imageSrc": "./images/countries/5.webp",
+    "flagSrc": "./images/countries/egypt.png"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Reef Beach",
+    "features": [
+      "Swimming",
+      "Water Sports",
+      "Food & Drink",
+      "Surfing",
+      "Watching the Sunset",
+      "Seashell collecting"
+    ],
+    "btnText": "Golden sand"
+  },
+  {
+    "title": "Mousa Bay Beach",
+    "features": ["Swimming", "Water Sports"],
+    "btnText": "Golden sand"
+  },
+  {
+    "title": "Steigenberger Alcazar Beach",
+    "features": ["Swimming", "Water Sports", "Food & Drink"],
+    "btnText": "White sand"
+  }
+]

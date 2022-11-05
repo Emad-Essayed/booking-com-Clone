@@ -1,0 +1,86 @@
+[
+  {
+    "More": [
+      {
+        "icon": "egp",
+        "text": "Egyption Pound"
+      },
+      {
+        "icon": "language",
+        "text": "English (UK)"
+      },
+      {
+        "icon": "android",
+        "text": "Download android app"
+      },
+      {
+        "icon": "loyalty",
+        "text": "Genius loyalty programme"
+      },
+      {
+        "icon": "listProperty",
+        "text": "List your property"
+      }
+    ]
+  },
+  {
+    "Help and support": [
+      {
+        "icon": "customerService",
+        "text": "Contact Customer Service"
+      },
+      {
+        "icon": "partnerDispute",
+        "text": "Partner dispute"
+      }
+    ]
+  },
+  {
+    "Inspiration": [
+      {
+        "icon": "deals",
+        "text": "Deals"
+      },
+      {
+        "icon": "travelArticles",
+        "text": "Travel articles"
+      },
+      {
+        "icon": "travelCommunities",
+        "text": "Travel communities"
+      }
+    ]
+  },
+  {
+    "Settings and legal": [
+      {
+        "icon": "about",
+        "text": "About Booking.com"
+      },
+      {
+        "icon": "careers",
+        "text": "Careers"
+      },
+      {
+        "icon": "affiliate",
+        "text": "Baecome an affiliate"
+      },
+      {
+        "icon": "pressCentre",
+        "text": "Press Centre"
+      },
+      {
+        "icon": "privacy",
+        "text": "Privacy & cookies"
+      },
+      {
+        "icon": "terms",
+        "text": "Terms and conditions"
+      },
+      {
+        "icon": "legal",
+        "text": "Legal"
+      }
+    ]
+  }
+]
